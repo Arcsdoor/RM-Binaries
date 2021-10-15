@@ -1,0 +1,21 @@
+<manifest>
+    <main-class>agility.Agil</main-class>
+    <name>Zen Agility</name>
+    <tag-line>Dookie Agility</tag-line>
+    <description>Agility</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>AGILITY</category>
+    </categories>
+
+    <resources>
+        <resource>agility/zAgilUI.fxml</resource>
+    </resources>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>

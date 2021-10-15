@@ -1,0 +1,19 @@
+<manifest>
+    <main-class>combat.Fighter</main-class>
+    <name>Fighter</name>
+    <description>POOP</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>COMBAT</category>
+    </categories>
+
+    <resources>
+        <resource>tools/SimpleUI.fxml</resource>
+    </resources>
+
+</manifest>
