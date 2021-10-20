@@ -1,9 +1,9 @@
 <manifest>
     <main-class>agility.Agil</main-class>
-    <name>Zen Agility</name>
+    <name>Agility Autism</name>
     <tag-line>Dookie Agility</tag-line>
     <description>Agility</description>
-    <version>0.0.1</version>
+    <version>0.5.1</version>
 
     <compatibility>
         <game-type>OSRS</game-type>

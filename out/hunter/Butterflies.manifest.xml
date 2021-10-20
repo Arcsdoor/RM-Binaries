@@ -1,0 +1,20 @@
+<manifest>
+    <main-class>hunter.Butterflies</main-class>
+    <name>Butterfly Hunter</name>
+    <tag-line>Butterflies for little boys.</tag-line>
+    <description>POOPing butter</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>HUNTER</category>
+    </categories>
+
+    <resources>
+    </resources>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
