@@ -1,8 +1,8 @@
 <manifest>
     <main-class>supplies.Cakes</main-class>
     <name>Cake Thief</name>
-    <tag-line>Tag Line</tag-line>
-    <description>Description</description>
+    <tag-line>Diabetes</tag-line>
+    <description>Cakes for days</description>
     <version>0.0.1</version>
 
     <compatibility>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <categories>
-        <category>OTHER</category>
+        <category>THIEVING</category>
     </categories>
 
     <internal-id>Internal ID</internal-id>
