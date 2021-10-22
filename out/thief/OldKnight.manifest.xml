@@ -1,0 +1,16 @@
+<manifest>
+    <main-class>thief.OldKnight</main-class>
+    <name>Old Knight</name>
+    <tag-line>Money for days</tag-line>
+    <description>Thief</description>
+    <version>1.0.0</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>THIEVING</category>
+    </categories>
+
+</manifest>
