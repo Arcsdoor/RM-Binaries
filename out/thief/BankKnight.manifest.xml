@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>thief.BankKnight</main-class>
+    <name>Bank Knight</name>
+    <tag-line>Free Money</tag-line>
+    <description>Description</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>THIEVING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
