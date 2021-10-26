@@ -1,9 +1,9 @@
 <manifest>
-    <main-class>agility.Agil</main-class>
+    <main-class>agility.Agility</main-class>
     <name>Agility Autism</name>
-    <tag-line>Dookie Agility</tag-line>
-    <description>Agility</description>
-    <version>0.5.1</version>
+    <tag-line>Run Forrest Run!</tag-line>
+    <description>Gnome -> Draynor -> Varrock -> Wilderness. Might be able to do Canifis IDK, its an old script</description>
+    <version>0.6.9</version>
 
     <compatibility>
         <game-type>OSRS</game-type>
@@ -12,10 +12,6 @@
     <categories>
         <category>AGILITY</category>
     </categories>
-
-    <resources>
-        <resource>agility/zAgilUI.fxml</resource>
-    </resources>
 
     <internal-id>Internal ID</internal-id>
 </manifest>
