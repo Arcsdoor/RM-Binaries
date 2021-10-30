@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>fishing.Fishing</main-class>
+    <name>Gnome Trout and Salmon</name>
+    <tag-line>Tag Line</tag-line>
+    <description>Description</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>FISHING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
