@@ -1,7 +1,7 @@
 <manifest>
     <main-class>fishing.Fishing</main-class>
     <name>Gnome Barbarian Trout and Salmon</name>
-    <tag-line>Tag Line</tag-line>
+    <tag-line>Feathers and rod</tag-line>
     <description>Gnome AND Barbarian</description>
     <version>0.0.1</version>
 
