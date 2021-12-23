@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>mining.PowerMiner</main-class>
+    <name>Power Miner</name>
+    <tag-line>Pay the iron price</tag-line>
+    <description>Description</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>MINING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
