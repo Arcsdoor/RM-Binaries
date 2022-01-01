@@ -1,0 +1,15 @@
+<manifest>
+    <main-class>combat.Pest</main-class>
+    <name>Pest Control</name>
+    <description>Ultimate Pest</description>
+    <version>6.9</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>COMBAT</category>
+    </categories>
+
+</manifest>
