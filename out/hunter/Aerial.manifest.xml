@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>hunter.Aerial</main-class>
+    <name>Areola Connoisseur</name>
+    <tag-line>Free the Tit</tag-line>
+    <description>Ass and titties</description>
+    <version>1.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>HUNTER</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
