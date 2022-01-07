@@ -1,8 +1,8 @@
 <manifest>
-    <main-class>woodcutting.Oaks</main-class>
-    <name>Oaks</name>
-    <tag-line>Chop oaks at gnome stronghold</tag-line>
-    <description>Description</description>
+    <main-class>herblore.Herblore</main-class>
+    <name>Herb</name>
+    <tag-line>420</tag-line>
+    <description>Snoop Lion</description>
     <version>0.0.1</version>
 
     <compatibility>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <categories>
-        <category>WOODCUTTING</category>
+        <category>HERBLORE</category>
     </categories>
 
     <internal-id>Internal ID</internal-id>
