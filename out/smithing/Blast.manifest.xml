@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>smithing.Blast</main-class>
+    <name>Blast Furnace</name>
+    <tag-line>Team rocket blasting off</tag-line>
+    <description>Goldmember</description>
+    <version>1.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>SMITHING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
