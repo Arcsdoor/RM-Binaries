@@ -1,8 +1,9 @@
 <manifest>
     <main-class>combat.Fighter</main-class>
     <name>Fighter</name>
-    <description>POOP</description>
-    <version>0.0.1</version>
+    <tag-line>Fight seasgulls and cows</tag-line>
+    <description>Port Sarim, Ardougne Farm</description>
+    <version>1.0.1</version>
 
     <compatibility>
         <game-type>OSRS</game-type>
