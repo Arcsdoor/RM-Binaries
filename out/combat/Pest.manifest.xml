@@ -1,6 +1,7 @@
 <manifest>
     <main-class>combat.Pest</main-class>
     <name>Pest Control</name>
+    <tag-line>WIP</tag-line>
     <description>Ultimate Pest</description>
     <version>6.9</version>
 

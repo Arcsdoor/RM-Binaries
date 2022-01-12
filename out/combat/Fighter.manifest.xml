@@ -1,7 +1,7 @@
 <manifest>
     <main-class>combat.Fighter</main-class>
     <name>Fighter</name>
-    <tag-line>Fight seasgulls and cows</tag-line>
+    <tag-line>Fight seagulls and cows</tag-line>
     <description>Port Sarim, Ardougne Farm</description>
     <version>1.0.1</version>
 
