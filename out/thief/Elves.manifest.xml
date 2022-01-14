@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>thief.Elves</main-class>
+    <name>Elves</name>
+    <tag-line>Cocaine and hookers</tag-line>
+    <description>Endless money</description>
+    <version>1.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>MONEYMAKING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
