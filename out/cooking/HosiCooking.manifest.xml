@@ -1,6 +1,6 @@
 <manifest>
     <main-class>cooking.HosiCooking</main-class>
-    <name>Gordon Ramsey</name>
+    <name>Gordon Ramsay</name>
     <tag-line>Piping cold</tag-line>
     <description>Cook anything in Hosidius range. Like i mean anything. Cook some pork and call it peppa pig. Set bank to withdraw all, start with raw food, set cooking to all, hide deposit worn inventory in bank</description>
     <version>1.0.1</version>
