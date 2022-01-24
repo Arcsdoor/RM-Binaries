@@ -1,4 +1,4 @@
 git pull
 
-"C:\Program Files\Amazon Corretto\jre8\bin\java" -jar ./RuneMate.jar -sdk -login=USER:PASSWORD
+"C:\Program Files\RuneMate\jre\bin\java" -jar -Xmx2048m "C:\Program Files\RuneMate\RuneMate.jar" -sdk -u USER -p PASS
 pause
