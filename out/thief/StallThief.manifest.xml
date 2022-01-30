@@ -2,7 +2,7 @@
     <main-class>thief.StallThief</main-class>
     <name>Stall Thief</name>
     <tag-line>果物を盗む</tag-line>
-    <description>これを翻訳しないでください</description>
+    <description>これを翻訳しないでください --- Combat component must be next to stall</description>
     <version>0.0.1</version>
 
     <compatibility>
