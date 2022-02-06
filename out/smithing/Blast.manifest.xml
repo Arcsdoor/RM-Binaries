@@ -1,6 +1,6 @@
 <manifest>
     <main-class>smithing.Blast</main-class>
-    <name>Blast Furnace</name>
+    <name>Golden Boy Furnace</name>
     <tag-line>WIP Team rocket blasting off</tag-line>
     <description>Goldmember</description>
     <version>1.0.1</version>

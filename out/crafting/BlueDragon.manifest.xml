@@ -1,6 +1,6 @@
 <manifest>
     <main-class>crafting.BlueDragon</main-class>
-    <name>Blue Dragon Shit</name>
+    <name>Simple Dragon Leather</name>
     <tag-line>Spicy</tag-line>
     <description>Slot 0 = Thread, Slot 1 = Needle, Set bank to withdraw all</description>
     <version>1.0.1</version>

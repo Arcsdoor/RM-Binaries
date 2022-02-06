@@ -1,7 +1,7 @@
 <manifest>
     <main-class>herblore.Herblore</main-class>
-    <name>Herb</name>
-    <tag-line>420</tag-line>
+    <name>Potion Mixer</name>
+    <tag-line>Pineapple Express</tag-line>
     <description>Snoop Lion</description>
     <version>0.0.1</version>
 

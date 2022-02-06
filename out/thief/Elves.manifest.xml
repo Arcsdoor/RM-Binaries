@@ -1,8 +1,8 @@
 <manifest>
     <main-class>thief.Elves</main-class>
-    <name>Elves</name>
-    <tag-line>Cocaine and hookers</tag-line>
-    <description>Endless money</description>
+    <name>Crystal Elves</name>
+    <tag-line>Crystal cocaine and elven hookers</tag-line>
+    <description>Two in the pink, one in the stink.</description>
     <version>1.0.1</version>
 
     <compatibility>
