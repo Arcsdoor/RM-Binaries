@@ -1,7 +1,7 @@
 <manifest>
-    <main-class>herblore.Herblore</main-class>
-    <name>Potion Mixer</name>
-    <tag-line>Pineapple Express</tag-line>
+    <main-class>herblore.BankSkills</main-class>
+    <name>Universal Bank Skills</name>
+    <tag-line>Life is like a box of chocolates</tag-line>
     <description>Snoop Lion</description>
     <version>0.0.1</version>
 
@@ -10,7 +10,7 @@
     </compatibility>
 
     <categories>
-        <category>HERBLORE</category>
+        <category>OTHER</category>
     </categories>
 
     <internal-id>Internal ID</internal-id>
