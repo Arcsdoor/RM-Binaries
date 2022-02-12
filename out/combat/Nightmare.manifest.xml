@@ -1,0 +1,21 @@
+<manifest>
+    <main-class>combat.Nightmare</main-class>
+    <name>Nightmare Eater</name>
+    <tag-line>Dream Eater</tag-line>
+    <description>Dream Fighter</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>COMBAT</category>
+    </categories>
+
+    <resources>
+        <resource>tools/SimpleUI.fxml</resource>
+    </resources>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
