@@ -1,0 +1,21 @@
+<manifest>
+    <main-class>thief.master.Master</main-class>
+    <name>Master</name>
+    <tag-line>Tag Line</tag-line>
+    <description>POOP</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>THIEVING</category>
+    </categories>
+
+    <resources>
+        <resource>thief/master/MasterUI.fxml</resource>
+    </resources>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
