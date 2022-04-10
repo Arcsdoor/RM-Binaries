@@ -1,6 +1,6 @@
 <manifest>
     <main-class>supplies.Cakes</main-class>
-    <name>Cake Thief</name>
+    <name>Thief of Cakes</name>
     <tag-line>Diabetes and shiny rocks</tag-line>
     <description>Cakes and gems for days</description>
     <version>1.0.1</version>

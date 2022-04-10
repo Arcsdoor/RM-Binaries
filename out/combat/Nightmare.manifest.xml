@@ -1,9 +1,9 @@
 <manifest>
     <main-class>combat.Nightmare</main-class>
-    <name>Nightmare Eater</name>
-    <tag-line>Dream Eater</tag-line>
+    <name>Dream Eater</name>
+    <tag-line>Nightmare consumer</tag-line>
     <description>Dream Fighter</description>
-    <version>0.0.1</version>
+    <version>1.0.1</version>
 
     <compatibility>
         <game-type>OSRS</game-type>

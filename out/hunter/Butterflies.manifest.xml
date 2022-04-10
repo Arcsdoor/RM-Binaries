@@ -1,6 +1,6 @@
 <manifest>
     <main-class>hunter.Butterflies</main-class>
-    <name>Butterfly Hunter</name>
+    <name>Hunter Butterfly</name>
     <tag-line>Butterflies for little boys.</tag-line>
     <description>POOPing butter</description>
     <version>0.0.1</version>
