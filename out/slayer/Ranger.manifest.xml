@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>slayer.Ranger</main-class>
+    <name>Range-Slayer Assist</name>
+    <tag-line>Brimstone keys up my ass</tag-line>
+    <description>Safe spot red nibbas, green nibbas, black nibbas</description>
+    <version>1.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>SLAYER</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
