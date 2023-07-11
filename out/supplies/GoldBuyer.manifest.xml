@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>supplies.GoldBuyer</main-class>
+    <name>Gold Buyer</name>
+    <tag-line>boom</tag-line>
+    <description>poop</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>OTHER</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>

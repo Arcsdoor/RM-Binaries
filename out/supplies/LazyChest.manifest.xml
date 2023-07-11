@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>supplies.LazyChest</main-class>
+    <name>Lazy Chest</name>
+    <tag-line>Purple glizzies be bussin</tag-line>
+    <description>No cap on god frfr bet drip rizz</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>THIEVING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
