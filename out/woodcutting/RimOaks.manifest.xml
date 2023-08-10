@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>woodcutting.RimOaks</main-class>
+    <name>Rimmington Oaks</name>
+    <tag-line>Cut burn fletch oaks at Rimmington</tag-line>
+    <description>Autism</description>
+    <version>1.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>WOODCUTTING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
