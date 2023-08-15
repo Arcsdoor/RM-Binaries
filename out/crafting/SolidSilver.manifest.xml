@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>crafting.SolidSilver</main-class>
+    <name>Solid Silver</name>
+    <tag-line>Cobra Kai</tag-line>
+    <description>Mine smelt craft sell silver in Al-Kharid F2P : Ultism</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>CRAFTING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
