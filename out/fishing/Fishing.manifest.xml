@@ -1,9 +1,9 @@
 <manifest>
     <main-class>fishing.Fishing</main-class>
-    <name>Gnome Barbarian Trout and Salmon</name>
-    <tag-line>Feathers and rod</tag-line>
-    <description>Gnome AND Barbarian</description>
-    <version>1.0.2</version>
+    <name>Solid Fisher</name>
+    <tag-line>Draynor, Barbarian Village, Camdozaal</tag-line>
+    <description>Small net, knife, Fly fishing rod, feathers</description>
+    <version>1.0.3</version>
 
     <compatibility>
         <game-type>OSRS</game-type>
