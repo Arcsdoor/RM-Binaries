@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>special.LiquidBank</main-class>
+    <name>Liquid Bank</name>
+    <tag-line>Nano Machines</tag-line>
+    <description>Bank activities in Fossil Island</description>
+    <version>1.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>MONEYMAKING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
