@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>magic.SolidAlch</main-class>
+    <name>Solid Alchemy</name>
+    <tag-line>Alch all noted items</tag-line>
+    <description>Full faggy alchemist</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>MAGIC</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
