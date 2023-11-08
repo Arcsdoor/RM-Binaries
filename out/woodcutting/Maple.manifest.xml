@@ -1,8 +1,8 @@
 <manifest>
-    <main-class>special.Stoner</main-class>
-    <name>ZZ-Stone Chest</name>
-    <tag-line>Rock Solid</tag-line>
-    <description>Paper</description>
+    <main-class>woodcutting.Maple</main-class>
+    <name>ZZ-Maple Boy</name>
+    <tag-line>Hosidius Maples</tag-line>
+    <description>need spirits</description>
     <version>0.0.1</version>
 
     <compatibility>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <categories>
-        <category>THIEVING</category>
+        <category>WOODCUTTING</category>
     </categories>
 
     <internal-id>Internal ID</internal-id>

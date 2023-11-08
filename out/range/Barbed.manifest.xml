@@ -1,8 +1,8 @@
 <manifest>
-    <main-class>special.Stoner</main-class>
-    <name>ZZ-Stone Chest</name>
-    <tag-line>Rock Solid</tag-line>
-    <description>Paper</description>
+    <main-class>range.Barbed</main-class>
+    <name>ZZ-Barbed Archery</name>
+    <tag-line>Archery guild dookie</tag-line>
+    <description>Description</description>
     <version>0.0.1</version>
 
     <compatibility>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <categories>
-        <category>THIEVING</category>
+        <category>RANGED</category>
     </categories>
 
     <internal-id>Internal ID</internal-id>
