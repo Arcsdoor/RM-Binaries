@@ -1,6 +1,6 @@
 <manifest>
     <main-class>tools.Tester</main-class>
-    <name>Test Dev</name>
+    <name>$-Test Script</name>
     <tag-line>Test</tag-line>
     <description>Nada</description>
     <version>0.0.1</version>
