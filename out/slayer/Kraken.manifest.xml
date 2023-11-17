@@ -1,9 +1,9 @@
 <manifest>
-    <main-class>slayer.Slayer</main-class>
-    <name>#-Slayer Assist</name>
-    <tag-line>Brimstone keys up my ass</tag-line>
-    <description>Mossy Time</description>
-    <version>1.0.1</version>
+    <main-class>slayer.Kraken</main-class>
+    <name>*Kraken-Killer</name>
+    <tag-line>Become Captain Jack Sparrow</tag-line>
+    <description>Kill kraken babies</description>
+    <version>0.0.1</version>
 
     <compatibility>
         <game-type>OSRS</game-type>

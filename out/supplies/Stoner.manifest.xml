@@ -1,5 +1,5 @@
 <manifest>
-    <main-class>special.Stoner</main-class>
+    <main-class>supplies.Stoner</main-class>
     <name>ZZ-Stone Chest</name>
     <tag-line>Rock Solid</tag-line>
     <description>Paper</description>

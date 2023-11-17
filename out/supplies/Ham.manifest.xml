@@ -1,7 +1,7 @@
 <manifest>
-    <main-class>slayer.Drake</main-class>
-    <name>Drake Assist</name>
-    <tag-line>started from the bottom in a wheelchair</tag-line>
+    <main-class>supplies.Ham</main-class>
+    <name>ZZ-Ham Clues</name>
+    <tag-line>Blues Clues</tag-line>
     <description>Description</description>
     <version>0.0.1</version>
 
@@ -10,7 +10,7 @@
     </compatibility>
 
     <categories>
-        <category>SLAYER</category>
+        <category>OTHER</category>
     </categories>
 
     <internal-id>Internal ID</internal-id>
