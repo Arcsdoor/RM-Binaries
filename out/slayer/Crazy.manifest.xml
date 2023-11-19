@@ -1,6 +1,6 @@
 <manifest>
     <main-class>slayer.Crazy</main-class>
-    <name>*Crazy-Killer</name>
+    <name>ZZ-Crazy-Killer</name>
     <tag-line>Doritos locos tacos</tag-line>
     <description>Description</description>
     <version>0.0.1</version>
