@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>combat.Lava</main-class>
+    <name>#-Lava boy</name>
+    <tag-line>Shark girl?</tag-line>
+    <description>Praise the lava bones</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>PRAYER</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
