@@ -1,6 +1,6 @@
 <manifest>
     <main-class>combat.Scorpia</main-class>
-    <name>!Scorpia</name>
+    <name>ZZ-Scorpia</name>
     <tag-line>Tag Line</tag-line>
     <description>Description</description>
     <version>0.0.1</version>
