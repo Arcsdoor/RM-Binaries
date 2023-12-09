@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <enemies>
+        <name>Chaos druid</name>
+        <name>Abyssal demon</name>
+    </enemies>
+    <loot>
+        <item>
+            <name>Grimy guam leaf</name>
+            <isNoted>false</isNoted>
+            <minimum>1</minimum>
+        </item>
+        <item>
+            <name>Grimy marrentill</name>
+            <isNoted>false</isNoted>
+            <minimum>1</minimum>
+        </item>
+    </loot>>
+</config>

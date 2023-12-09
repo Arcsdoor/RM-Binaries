@@ -1,6 +1,6 @@
 <manifest>
     <main-class>slayer.Drake</main-class>
-    <name>*Drake-Killer</name>
+    <name>XX-Drake-Killer</name>
     <tag-line>Started from the bottom</tag-line>
     <description>Description</description>
     <version>0.0.1</version>
