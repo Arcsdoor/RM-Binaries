@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>supplies.ChaosHerbs</main-class>
+    <name>#-Chaos Herbs</name>
+    <tag-line>Pudding</tag-line>
+    <description>Do not read this</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>MONEYMAKING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
