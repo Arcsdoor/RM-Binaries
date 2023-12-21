@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <loot>
+        <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut sapphire"/>
+        <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut emerald"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut ruby"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut diamond"/>
+        <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy guam leaf"/>
+        <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy marrentill"/>
+        <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy tarromin"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy harralander"/>
+        <item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy ranarr weed"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy irit leaf"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy avantoe"/>
+        <item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy kwuarm"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy cadantine"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy lantadyme"/>
+        <item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy dwarf weed"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Law rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Nature rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled chaos druid head"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune spear"/>
+        <item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragonstone"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Shield left half"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon spear"/>
+    </loot>
+    <areas>
+        <area location="yanille" enemies="Chaos druid">
+            <start x0="2590" y0="3070" z0="0" x1="2614" y1="3097" z1="0"/>
+            <box0 x0="2608" y0="9480" z0="0" x1="2621" y1="9495" z1="0"/>
+            <box1 x0="2601" y0="9482" z0="0" x1="2607" y1="9486" z1="0"/>
+        </area>
+    </areas>
+    <enemies>
+        <enemy name="Nex"/>
+    </enemies>
+</config>
