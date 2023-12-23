@@ -1,9 +1,9 @@
 <manifest>
     <main-class>supplies.ChaosHerbs</main-class>
     <name>#-Chaos Herbs</name>
-    <tag-line>Pudding</tag-line>
-    <description>Do not read this</description>
-    <version>0.0.1</version>
+    <tag-line>Yanille Massacre</tag-line>
+    <description>For the taco man</description>
+    <version>4.2.0</version>
 
     <compatibility>
         <game-type>OSRS</game-type>
