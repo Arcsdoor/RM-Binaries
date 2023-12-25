@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
-    <settings hopWorld="476"/>
+    <settings worldList="361;476"/>
     <loot>
+        <!-- -1=Ignore, 0=Stop collecting after pickup,1=Normal, 2=Retry, 3=Absolute pickup -->
+        <!--Gems-->
         <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut sapphire"/>
         <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut emerald"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut ruby"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut diamond"/>
+        <item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragonstone"/>
+        <!--Herbs-->
         <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy guam leaf"/>
         <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy marrentill"/>
         <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy tarromin"/>
@@ -17,19 +21,48 @@
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy cadantine"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy lantadyme"/>
         <item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy dwarf weed"/>
+        <!--Seeds-->
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ranarr seed"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Avantoe seed"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Snapdragon seed"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Cadantine seed"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Snape grass seed"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Torstol seed"/>
+        <!--Runes-->
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Law rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Nature rune"/>
+        <!--Loot-->
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled chaos druid head"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune spear"/>
-        <item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragonstone"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Rune javelin"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mithril kiteshield"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune longsword"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant platebody"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune axe"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Lead-bladed sword"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mystic robe top (light)"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Leaf-bladed battleaxe"/>
+        <!--Noted-->
+        <item priority="1" canAlchemy="false" onlyNoted="true" minimum="100" name="Flax"/>
+        <item priority="1" canAlchemy="false" onlyNoted="true" minimum="12" name="White berries"/>
+        <item priority="1" canAlchemy="false" onlyNoted="true" minimum="20" name="Big bones"/>
+        <item priority="1" canAlchemy="false" onlyNoted="true" minimum="10" name="Papaya fruit"/>
+        <item priority="1" canAlchemy="false" onlyNoted="true" minimum="10" name="Coconut"/>
+        <!--High priority-->
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Shield left half"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon spear"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Brimstone key"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Clue scroll (hard)"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Kurask head"/>
     </loot>
     <areas>
         <area location="yanille" enemies="Chaos druid">
             <start x0="2590" y0="3070" z0="0" x1="2614" y1="3097" z1="0"/>
             <box0 x0="2608" y0="9480" z0="0" x1="2621" y1="9495" z1="0"/>
             <box1 x0="2601" y0="9482" z0="0" x1="2607" y1="9486" z1="0"/>
+        </area>
+        <area location="fremmy-kurasks" enemies="Kurask">
+            <box0 x0="2690" y0="9990" z0="0" x1="2712" y1="10007" z1="0"/>
         </area>
     </areas>
     <enemies>
