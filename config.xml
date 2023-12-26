@@ -39,7 +39,7 @@
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune longsword"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant platebody"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune axe"/>
-        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Lead-bladed sword"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Leaf-bladed sword"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mystic robe top (light)"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Leaf-bladed battleaxe"/>
         <!--Noted-->
