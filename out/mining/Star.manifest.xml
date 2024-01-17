@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>mining.Star</main-class>
+    <name>Star Miner</name>
+    <tag-line>Super lazy stardust</tag-line>
+    <description>Don't read this</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>MINING</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
