@@ -1,7 +1,7 @@
 <manifest>
     <main-class>woodcutting.RimTrees</main-class>
     <name>Rimmington Trees</name>
-    <tag-line>Cut burn fletch oaks/willows at Rimmington</tag-line>
+    <tag-line>Cut burn oaks/willows at Rimmington</tag-line>
     <description>Ultism</description>
     <version>1.0.1</version>
 
