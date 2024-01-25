@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
-    <settings worldList="361;476"/>
+    <settings extendSession="false" worldList="361;476;396"/>
     <loot>
         <!-- -1=Ignore, 0=Stop collecting after pickup,1=Normal, 2=Retry, 3=Absolute pickup -->
         <!--Gems-->
@@ -58,7 +58,7 @@
     <areas>
         <area location="yanille" enemies="Chaos druid">
             <start x0="2590" y0="3070" z0="0" x1="2614" y1="3097" z1="0"/>
-            <box0 x0="2608" y0="9480" z0="0" x1="2621" y1="9495" z1="0"/>
+            <box0 x0="2608" y0="9480" z0="0" x1="2621" y1="9500" z1="0"/>
             <box1 x0="2601" y0="9482" z0="0" x1="2607" y1="9486" z1="0"/>
         </area>
         <area location="fremmy-kurasks" enemies="Kurask">
