@@ -65,7 +65,7 @@
             <box0 x0="2690" y0="9990" z0="0" x1="2712" y1="10007" z1="0"/>
         </area>
         <area location="port-sarim" enemies="Seagull">
-            <box0 x0="3017" y0="3198" z0="0" x1="3032" y1="3213" z1="0"/>
+            <box0 x0="3017" y0="3198" z0="0" x1="3034" y1="3213" z1="0"/>
         </area>
     </areas>
     <enemies>
