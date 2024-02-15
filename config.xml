@@ -68,6 +68,7 @@
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="3" name="Raw shark"/>
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="3" name="Adamantite ore"/>
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="6" name="Coal"/>
+		<item priority="1" canAlchemy="false" onlyNoted="true" minimum="20" name="Cabbage"/>
         <!--High priority-->
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Shield left half"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon spear"/>
