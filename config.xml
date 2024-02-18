@@ -34,31 +34,53 @@
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Law rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Nature rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Soul rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="5" name="Blood rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Death rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Mud rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="50" name="Earth rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="50" name="Fire rune"/>
         <!--Loot-->
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled chaos druid head"/>
-        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune spear"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled kalphite head"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled hellhound head"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled demon head"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled troll head"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Rune javelin"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Mist battlestaff"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Dust battlestaff"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Leaf-bladed battleaxe"/>
+
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mithril kiteshield"/>
-        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune longsword"/>
-        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune battleaxe"/>
-        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune kiteshield"/>
-        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune warhammer"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Red d'hide chaps"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Earth battlestaff"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant platebody"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant warhammer"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant axe"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant 2h sword"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant sq shield"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant battleaxe"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune axe"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune med helm"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune 2h sword"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune pickaxe"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune longsword"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune battleaxe"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune kiteshield"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune sq shield"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune warhammer"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune spear"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune chainbody"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Leaf-bladed sword"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mystic robe top (light)"/>
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Leaf-bladed battleaxe"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Warped sceptre (uncharged)"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Dragon dagger"/>
         <!--Loot stacks-->
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="20" name="Swamp tar"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="100" name="Feather"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Diamond bolt tips"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="100" name="Pure essence"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="8" name="Rune arrowtips"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="8" name="Adamant arrowtips"/>
         <!--Noted-->
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="100" name="Flax"/>
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="12" name="White berries"/>
@@ -67,16 +89,28 @@
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="10" name="Coconut"/>
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="3" name="Raw shark"/>
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="3" name="Adamantite ore"/>
+        <item priority="1" canAlchemy="false" onlyNoted="true" minimum="3" name="Mithril ore"/>
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="6" name="Coal"/>
 		<item priority="1" canAlchemy="false" onlyNoted="true" minimum="20" name="Cabbage"/>
         <!--High priority-->
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Shield left half"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon sword"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon harpoon"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon knife"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon thrownaxe"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon spear"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Brimstone key"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Imbued heart"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Eternal gem"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Clue scroll (hard)"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Kurask head"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Long bone"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Curved bone"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Smouldering stone"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Ancient shard"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dark totem base"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dark totem middle"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dark totem top"/>
     </loot>
     <areas>
         <area location="yanille" enemies="Chaos druid">
@@ -90,12 +124,34 @@
         <area location="port-sarim" enemies="Seagull">
             <box0 x0="3017" y0="3198" z0="0" x1="3034" y1="3213" z1="0"/>
         </area>
-        <area location="warped dungeon 01" enemies="Warped Terrorbird">
+        <area location="warped-dungeon" enemies="Warped Terrorbird">
             <box0 x0="1484" y0="4279" z0="0" x1="1501" y1="4282" z1="0"/>
         </area>
-        <area location="warped dungeon 02" enemies="Warped Tortoise">
+        <area location="warped-dungeon" enemies="Warped Tortoise">
             <box0 x0="1526" y0="4235" z0="0" x1="1529" y1="4254" z1="0"/>
         </area>
+        <area location="small-kalphites" enemies="Kalphite Worker">
+            <box0 x0="3270" y0="9510" z0="0" x1="3290" y1="9530" z1="0"/>
+        </area>
+        <area location="wyrm-slayer" enemies="Wyrm">
+            <box0 x0="1250" y0="10144" z0="0" x1="1278" y1="10171" z1="0"/>
+        </area>
+        <area location="kourend-hell" enemies="Hellhound">
+            <box0 x0="1636" y0="10055" z0="0" x1="1652" y1="10075" z1="0"/>
+        </area>
+        <area location="slayercave-ankou" enemies="Ankou">
+            <box0 x0="2466" y0="9790" z0="0" x1="2491" y1="9812" z1="0"/>
+        </area>
+        <area location="taverly" enemies="Black demon">
+            <box0 x0="2820" y0="9784" z0="0" x1="2859" y1="9807" z1="0"/>
+        </area>
+        <area location="quid" enemies="Mountain troll">
+            <box0 x0="1207" y0="3480" z0="0" x1="1235" y1="3511" z1="0"/>
+        </area>
+        <area location="kalcave" enemies="Kalphite Guardian">
+            <box0 x0="3264" y0="9474" z0="0" x1="3290" y1="9500" z1="0"/>
+        </area>
+
     </areas>
     <enemies>
         <enemy name="Nex"/>
