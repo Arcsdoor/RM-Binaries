@@ -1,7 +1,7 @@
 <manifest>
-    <main-class>fletching.SlowFletcher</main-class>
-    <name>ZZ-Fletch Slow</name>
-    <tag-line>Slot O and Slot 1</tag-line>
+    <main-class>fletching.FastFletcher</main-class>
+    <name>ZZ-Fletch Fast</name>
+    <tag-line>Tag Line</tag-line>
     <description>Description</description>
     <version>0.0.1</version>
 
@@ -10,7 +10,7 @@
     </compatibility>
 
     <categories>
-        <category>FLETCHING</category>
+        <category>OTHER</category>
     </categories>
 
     <internal-id>Internal ID</internal-id>
