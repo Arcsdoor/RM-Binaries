@@ -1,2 +1,5 @@
+# To ignore changes to the batch file
+# git update-index --assume-unchanged go.bat
+
 go.bat
 RuneMate.jar
