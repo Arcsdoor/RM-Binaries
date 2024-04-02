@@ -1,0 +1,17 @@
+<manifest>
+    <main-class>hunter.Chin</main-class>
+    <name>Hunter Chinchompas</name>
+    <tag-line>Crimson CHINS</tag-line>
+    <description>Description</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>HUNTER</category>
+    </categories>
+
+    <internal-id>Internal ID</internal-id>
+</manifest>
