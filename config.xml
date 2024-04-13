@@ -31,6 +31,7 @@
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Snape grass seed"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Torstol seed"/>
         <!--Runes-->
+		<item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Chaos rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Law rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Nature rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Soul rune"/>
@@ -53,6 +54,7 @@
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mithril kiteshield"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Red d'hide chaps"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Earth battlestaff"/>
+		<item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant platelegs"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant platebody"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant warhammer"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant axe"/>
@@ -61,6 +63,7 @@
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant battleaxe"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune axe"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune med helm"/>
+		<item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune full helm"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune 2h sword"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune pickaxe"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune longsword"/>
@@ -145,11 +148,19 @@
         <area location="taverly" enemies="Black demon">
             <box0 x0="2820" y0="9784" z0="0" x1="2859" y1="9807" z1="0"/>
         </area>
-        <area location="quid" enemies="Mountain troll">
-            <box0 x0="1207" y0="3480" z0="0" x1="1235" y1="3511" z1="0"/>
-        </area>
         <area location="kalcave" enemies="Kalphite Guardian">
             <box0 x0="3264" y0="9474" z0="0" x1="3290" y1="9500" z1="0"/>
+        </area>
+		<area location="demoncave-greater" enemies="Greater demon">
+			<start x0="1439" y0="10068" z0="2" x1="1455" y1="10088" z1="2"/>
+            <box0 x0="1439" y0="10068" z0="2" x1="1455" y1="10078" z1="2"/>
+			<box0 x0="1442" y0="10076" z0="2" x1="1455" y1="10088" z1="2"/>
+        </area>
+        <area location="demoncave-black" enemies="Black demon">
+            <box0 x0="1461" y0="10103" z0="1" x1="1416" y1="10058" z1="1"/>
+        </area>
+        <area location="quidamortem" enemies="Mountain troll">
+            <box0 x0="1205" y0="3475" z0="0" x1="1234" y1="3512" z1="0"/>
         </area>
 
     </areas>
