@@ -1,6 +1,6 @@
 <manifest>
     <main-class>fishing.Scales</main-class>
-    <name>#-Scale Fisher</name>
+    <name>ZZ-Scale Fisher</name>
     <tag-line>For the blowpipe and helmet</tag-line>
     <description>I’ve had it with these monkey-fighting snakes on this Monday through Friday plane</description>
     <version>1.0.1</version>

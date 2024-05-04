@@ -1,6 +1,6 @@
 <manifest>
     <main-class>woodcutting.ShlepTeaks</main-class>
-    <name>#-Shlep Teaks</name>
+    <name>ZZ-Shlep Teaks</name>
     <tag-line>Monkey Teaks</tag-line>
     <description>Axe, farming cape, spirit tree, nexus</description>
     <version>1.0.1</version>

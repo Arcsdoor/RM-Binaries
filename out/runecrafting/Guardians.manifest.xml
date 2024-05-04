@@ -1,6 +1,6 @@
 <manifest>
     <main-class>runecrafting.Guardians</main-class>
-    <name>Guardians of the Ralaxy</name>
+    <name>#-Guardians of the Ralaxy</name>
     <tag-line>GOTR</tag-line>
     <description>GPU render distance = 40 + Camera zoom out = 150</description>
     <version>0.7.8</version>
