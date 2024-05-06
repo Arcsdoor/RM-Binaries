@@ -1,9 +1,22 @@
 <manifest>
     <main-class>runecrafting.Guardians</main-class>
     <name>#-Guardians of the Ralaxy</name>
-    <tag-line>GOTR</tag-line>
-    <description>GPU render distance = 40 + Camera zoom out = 150</description>
-    <version>0.7.8</version>
+    <tag-line>Guarding the rift to save Gamora for that gussy</tag-line>
+    <description>
+        GPU plugin render distance = 40
+        Camera plugin zoom out = 150
+        ****Options****
+        Chisel in inventory = Assembly of guardians for extra points / Low chance
+        Rune pouch in inventory = Disable collecting cells to make runes slightly faster
+        ***************
+        Scans RC lvl and quests done for 4 types of catalytic runes
+        Default = [Blood, Death, Law, Nature]
+        No Quests = [Nature, Chaos, Body, Mind]
+        To override have 4 catalytic runes and start bot
+        Implementation of combination runes is possible for the future
+        MISSING COORDINATES FOR BLOOD DEATH COSMIC
+    </description>
+    <version>0.9.5</version>
 
     <compatibility>
         <game-type>OSRS</game-type>
