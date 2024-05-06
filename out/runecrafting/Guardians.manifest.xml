@@ -5,9 +5,11 @@
     <description>
         GPU plugin render distance = 40
         Camera plugin zoom out = 150
+        Entity hider reduces lag
         ****Options****
-        Chisel in inventory = Assembly of guardians for extra points / Low chance
+        Chisel in inventory = Assembly of guardians for extra points / Low chance + Favors crafting elemental runes 55:45
         Rune pouch in inventory = Disable collecting cells to make runes slightly faster
+        Abyssal pearls in inventory = Attempts to repair pouches at the end of the game
         ***************
         Scans RC lvl and quests done for 4 types of catalytic runes
         Default = [Blood, Death, Law, Nature]
