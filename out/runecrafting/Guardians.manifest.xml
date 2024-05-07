@@ -1,17 +1,18 @@
 <manifest>
     <main-class>runecrafting.Guardians</main-class>
     <name>#-Guardians of the Ralaxy</name>
-    <tag-line>Guarding the rift to save Gamora for that gussy</tag-line>
+    <tag-line>Guarding the rift to save Gamora for that grussy</tag-line>
     <description>
         GPU plugin render distance = 40
         Camera plugin zoom out = 150
         Entity hider reduces lag
         ****Options****
-        Chisel in inventory = Assembly of guardians for extra points / Low chance to construct + Favors crafting elemental runes with a ratio of 55:45
-        Rune pouch in inventory = Disable collecting cells to make runes slightly faster / +XP -Points
+        Chisel in inventory = Assembly of guardians for extra points / Low chance to construct + Favors crafting elemental runes
+        Rune pouch in inventory = Disable collecting cells to make runes slightly faster / +XP -Points + Favors crafting *good* catalytic runes
         Abyssal pearls in inventory = Attempts to repair pouches at the end of the game
+        Disable the portal talismans of bad runes
         ***************
-        My Setup = 3 biggest pouches or colossal pouch and rune pouch with the best catalytic runes.
+        My Setup = 3 biggest pouches or colossal pouch and rune pouch with the best catalytic runes. Mining/Max Cape + Varrock chest + Crystal pickaxe + Celestial signet increases XP
         Scans RC lvl and quests done for 4 types of catalytic runes
         Default = [Blood, Death, Law, Nature]
         No Quests = [Nature, Chaos, Body, Mind]
