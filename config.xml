@@ -3,12 +3,21 @@
     <settings extendSession="false" worldList="361;476;396"/>
     <loot>
         <!-- -1=Ignore, 0=Stop collecting after pickup,1=Normal, 2=Retry, 3=Absolute pickup -->
+        <!--Trash-->
+        <item priority="-1" canAlchemy="false" onlyNoted="true" minimum="2" name="Rune essence"/>
+		<item priority="-1" canAlchemy="false" onlyNoted="false" minimum="1" name="Black bead"/>
+        <item priority="-1" canAlchemy="false" onlyNoted="false" minimum="1" name="Yellow bead"/>
+        <item priority="-1" canAlchemy="false" onlyNoted="false" minimum="1" name="White bead"/>
+        <item priority="-1" canAlchemy="false" onlyNoted="false" minimum="1" name="Red bead"/>
+        <item priority="-1" canAlchemy="false" onlyNoted="false" minimum="1" name="Chef's hat"/>
+        <item priority="-1" canAlchemy="false" onlyNoted="false" minimum="1" name="Mind talisman"/>
+        <item priority="-1" canAlchemy="false" onlyNoted="false" minimum="1" name="Fire talisman"/>
         <!--Food-->
         <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Chocolate bomb"/>
         <!--Gems-->
         <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut sapphire"/>
         <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut emerald"/>
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut ruby"/>
+        <item priority="0" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut ruby"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Uncut diamond"/>
         <item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragonstone"/>
         <!--Herbs-->
@@ -23,6 +32,7 @@
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy cadantine"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy lantadyme"/>
         <item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy dwarf weed"/>
+		<item priority="2" canAlchemy="false" onlyNoted="false" minimum="1" name="Grimy torstol"/>
         <!--Seeds-->
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ranarr seed"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Avantoe seed"/>
@@ -31,16 +41,19 @@
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Snape grass seed"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Torstol seed"/>
         <!--Runes-->
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Chaos rune"/>
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Law rune"/>
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Nature rune"/>
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Soul rune"/>
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="5" name="Blood rune"/>
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Death rune"/>
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Mud rune"/>
-        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="50" name="Earth rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="9" name="Cosmic rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="9" name="Chaos rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="9" name="Law rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="9" name="Nature rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="9" name="Soul rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="9" name="Blood rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="9" name="Death rune"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="9" name="Mud rune"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="50" name="Fire rune"/>
         <!--Loot-->
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Mind core"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Barronite guard"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Barronite shards"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled chaos druid head"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled kalphite head"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Ensouled hellhound head"/>
@@ -52,8 +65,13 @@
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="1" name="Leaf-bladed battleaxe"/>
 
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mithril kiteshield"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mithril sq shield"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mithril platelegs"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mithril full helm"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mithril platebody"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Red d'hide chaps"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Earth battlestaff"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Fire battlestaff"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant platelegs"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant platebody"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Adamant warhammer"/>
@@ -72,6 +90,7 @@
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune sq shield"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune warhammer"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune spear"/>
+        <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune scimitar"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Rune chainbody"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Leaf-bladed sword"/>
         <item priority="1" canAlchemy="true" onlyNoted="false" minimum="1" name="Mystic robe top (light)"/>
@@ -83,6 +102,7 @@
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Diamond bolt tips"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="100" name="Pure essence"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="8" name="Rune arrowtips"/>
+        <item priority="1" canAlchemy="false" onlyNoted="false" minimum="10" name="Rune arrow"/>
         <item priority="1" canAlchemy="false" onlyNoted="false" minimum="8" name="Adamant arrowtips"/>
         <!--Noted-->
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="100" name="Flax"/>
@@ -96,6 +116,11 @@
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="6" name="Coal"/>
         <item priority="1" canAlchemy="false" onlyNoted="true" minimum="20" name="Cabbage"/>
         <!--High priority-->
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Warrior guild token"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Bronze defender"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Iron defender"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Steel defender"/>
+        <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Black defender"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Shield left half"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon sword"/>
         <item priority="3" canAlchemy="false" onlyNoted="false" minimum="1" name="Dragon harpoon"/>
@@ -145,10 +170,15 @@
             <box0 x0="1250" y0="10144" z0="0" x1="1278" y1="10171" z1="0"/>
         </area>
         <area location="kourend-hell" enemies="Hellhound">
-            <box0 x0="1636" y0="10055" z0="0" x1="1652" y1="10075" z1="0"/>
+			<start x0="1638" y0="10050" z0="0" x1="1642" y1="10055" z1="0"/>
+            <box0 x0="1637" y0="10055" z0="0" x1="1655" y1="10065" z1="0"/>
+			<box1 x0="1641" y0="10055" z0="0" x1="1655" y1="10075" z1="0"/>
         </area>
         <area location="slayercave-ankou" enemies="Ankou">
             <box0 x0="2466" y0="9790" z0="0" x1="2491" y1="9812" z1="0"/>
+        </area>
+        <area location="slayercave-hell" enemies="Hellhound">
+            <box0 x0="2404" y0="9790" z0="0" x1="2422" y1="9812" z1="0"/>
         </area>
         <area location="taverly" enemies="Black demon">
             <box0 x0="2820" y0="9784" z0="0" x1="2859" y1="9807" z1="0"/>
@@ -167,8 +197,38 @@
         <area location="quidamortem" enemies="Mountain troll">
             <box0 x0="1205" y0="3475" z0="0" x1="1234" y1="3512" z1="0"/>
         </area>
+        <area location="varrock-dark" enemies="Dark wizard">
+            <box0 x0="3215" y0="3358" z0="0" x1="3240" y1="3380" z1="0"/>
+        </area>
+        <area location="barronite" enemies="Mind Golem">
+            <box0 x0="2997" y0="5784" z0="0" x1="3007" y1="5794" z1="0"/>
+        </area>
+        <area location="karamja-imps" enemies="Imp">
+            <box0 x0="2800" y0="3130" z0="0" x1="2900" y1="3200" z1="0"/>
+        </area>
+        <area location="node-boars" enemies="Boar">
+            <box0 x0="3090" y0="3006" z0="0" x1="3121" y1="3037" z1="0"/>
+        </area>
+        <area location="wildy-greater" enemies="Greater demon">
+            <box0 x0="3275" y0="3865" z0="0" x1="3312" y1="3901" z1="0"/>
+        </area>
+        <area location="wildy-knight" enemies="Black Knight">
+            <box0 x0="3031" y0="3830" z0="0" x1="3063" y1="3866" z1="0"/>
+        </area>
+        <area location="wildy-darkwar" enemies="Dark warrior">
+            <box0 x0="3025" y0="3628" z0="0" x1="3033" y1="3635" z1="0"/>
+        </area>
+        <area location="yanille-ogre" enemies="Ogre">
+            <box0 x0="2490" y0="3082" z0="0" x1="2504" y1="3100" z1="0"/>
+        </area>
+        <area location="souls-greater" enemies="Greater demon">
+            <box0 x0="2158" y0="9322" z0="0" x1="2173" y1="9334" z1="0"/>
+        </area>
+        <area location="slayercave-fire" enemies="Fire giant">
+            <start x0="2391" y0="9768" z0="0" x1="2407" y1="9783" z1="0"/>
+            <box0 x0="2391" y0="9768" z0="0" x1="2407" y1="9773" z1="0"/>
+        </area>
     </areas>
-    <enemies>
-        <enemy name="Nex"/>
-    </enemies>
+    <enemies
+            list="Cyclops;Cow;Ice warrior;Mammoth;Scorpion;Magic axe;Zombie;Ankou;Deadly red spider;Earth warrior;Hill Giant;Lesser demon;Greater demon;Chaos druid;Bandit;Kalphite Worker;Mountain troll"/>
 </config>
